@@ -1,1 +1,7 @@
-{"schemaVersion": 1, "label": "Active Stack", "message": "green \u2022 6ecdaa1 \u2022 2026-02-20 21:46 UTC", "color": "brightgreen", "cacheSeconds": 300}
+{
+  "schemaVersion": 1,
+  "label": "Active Stack",
+  "message": "blue • f3c2412 • 2026-02-27 00:23 UTC",
+  "color": "blue",
+  "cacheSeconds": 300
+}
